@@ -138,10 +138,6 @@ Simply edit text in the HTML sections:
 <p>Your product description</p>
 ```
 
-## 📸 Screenshot
-
-[Add screenshot here]
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
