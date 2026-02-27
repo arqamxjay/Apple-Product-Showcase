@@ -178,6 +178,4 @@ This is an educational project created for learning purposes. Apple and all Appl
 
 ---
 
-<div align="center">
-Made with ❤️ and code
-</div>
+
